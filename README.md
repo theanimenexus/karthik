@@ -5,7 +5,7 @@ This repository is made for using two important CoinDCX API
 - Real time Ticks
 
 CoinDCX gives these two as public API but over HTTP or WebSockets, read their [documentation](https://coindcx-official.github.io/rest-api/)
-
+they are completely free to access 
 ## Usage
 
 ### Maven
